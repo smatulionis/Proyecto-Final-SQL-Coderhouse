@@ -53,7 +53,7 @@ La base de datos del colegio fue creada y gestionada utilizando las siguientes t
 
 ## Archivos incluidos
 
-- `colegio.sql`: Archivo SQL que contiene el script de creación de la base de datos junto con los comandos para poblar las tablas con datos de ejemplo.
+- `bd_colegio.sql`: Archivo SQL que contiene el script de creación de la base de datos junto con los comandos para poblar las tablas con datos de ejemplo.
 - `README.md`: Este archivo que proporciona información sobre la base de datos y su contenido.
 
 ## Uso
