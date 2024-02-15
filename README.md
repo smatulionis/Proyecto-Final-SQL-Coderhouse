@@ -60,7 +60,7 @@ La base de datos del colegio fue creada y gestionada utilizando las siguientes t
 
 Para utilizar esta base de datos, sigue los siguientes pasos:
 
-1. Importa el archivo `colegio.sql` en tu sistema de gestión de bases de datos MySQL.
+1. Importa el archivo `bd_colegio.sql` en tu sistema de gestión de bases de datos MySQL.
 2. Ejecuta el script para crear la estructura de la base de datos y poblar las tablas con datos de ejemplo.
 
 ## Contacto
