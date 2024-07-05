@@ -5,7 +5,6 @@ Este proyecto se realizó para aprobar el curso de SQL de Coderhouse. El reposit
 ## Índice
 
 - [Estructura de la base de datos](#estructura-de-la-base-de-datos)
-  - [Tablas](#tablas)
   - [Vistas](#vistas)
   - [Procedimientos almacenados y funciones](#procedimientos-almacenados-y-funciones)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
