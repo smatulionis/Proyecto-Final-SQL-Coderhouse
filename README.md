@@ -64,4 +64,4 @@ Para utilizar esta base de datos, sigue los siguientes pasos:
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [smatulionis@live.com.ar](mailto:smatulionis@live.com.ar) o a través de mi perfil de Linkedin en [Sebastián Ezequiel Matulionis](https://www.linkedin.com/in/smatulionis/).
+Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, puedes contactarme por correo electrónico a [smatulionis@live.com.ar](mailto:smatulionis@live.com.ar) o a través de mi perfil de Linkedin en [Sebastián Ezequiel Matulionis](https://www.linkedin.com/in/smatulionisdesarrollosoftware/).
